@@ -1,4 +1,4 @@
-https://www.codechef.com/problems/WALK
+//https://www.codechef.com/problems/WALK
 
 #include <stdio.h>
 
